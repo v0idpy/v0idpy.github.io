@@ -1,9 +1,8 @@
 ---
-title: About
+title: 👾  About Me
 icon: fas fa-info-circle
 order: 4
 ---
-![Header](https://github.com/v0idpy/v0idpy.github.io/tree/main/assets/img/images/github-header-image.png)
 
 ![](https://komarev.com/ghpvc/?username=voidpy) 
 [![Linkedin Badge](https://img.shields.io/badge/-christianmanalo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christianmanalo/)](https://www.linkedin.com/in/christianmanalo/) 
@@ -18,4 +17,4 @@ order: 4
 * 🚀  In my free time, I enjoy watching anime, playing capture the flag on HackTheBox & spending time with family.
 * 🎉 Fun fact: I'm a huge fan of One Piece.
 
-<img align="center" alt="GIF" src="https://github.com/v0idpy/v0idpy.github.io/tree/main/assets/img/images/luffy.gif" />
+<img align="center" alt="GIF" src="../assets/img/images/luffy.gif" />
