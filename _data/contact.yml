@@ -4,8 +4,9 @@
   type: github
   icon: 'fab fa-github'
 -
-  type: twitter
-  icon: 'fab fa-twitter'
+  type: linkedin 
+  icon: 'fab fa-linkedin'
+  url: 'https://www.linkedin.com/in/christianmanalo/'
 -
   type: email
   icon: 'fas fa-envelope'
@@ -23,7 +24,7 @@
 # -
 #   type: linkedin
 #   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
+#   url:  'https://www.linkedin.com/in/christianmanalo/'                  # Fill with your Linkedin homepage
 # -
 #   type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
