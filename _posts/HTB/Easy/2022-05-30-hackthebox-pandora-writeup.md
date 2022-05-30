@@ -102,7 +102,7 @@ HOST-RESOURCES-MIB::hrSWRunParameters.879 = ""
 [** SNIP **]
 ```
 
-El resultado del comando encontramos el usuario `daniel` con la contraseña `HotelBabylon23`. Ya tenemos una credencial, vamos a intentar autenticarnos por `SSH`.
+El resultado del comando encontramos el usuario `daniel` con la contraseña `HotelBabylon23`. Ya tenemos credenciales, vamos a intentar autenticarnos por `SSH`.
 ```
 ❯ ssh daniel@10.10.11.136
 daniel@10.10.11.136's password: HotelBabylon23
