@@ -19,7 +19,7 @@ image:
 ## Sinopsis
 Pandora es una máquina fácil de HackTheBox creado por [TheCyberGeek](https://app.hackthebox.com/users/114053) y [dmw0ng](https://app.hackthebox.com/users/610173). 
 
-Enumerando `SNMP` encontraremos unas credenciales que nos permitirá entrar en la máquina usando `SSH`. Para el movimiento lateral explotaremos `Pandora FMS` que corre por un puerto interno. Con `SQLi` robaremos las cookies del administrador para autenticarnos y subiendo un archivo malicioso conseguiremos ejecución remota de comandos `RCE`. Para la escalada de privilegios utilizaremos un binario con `SUID` y con un `Path Hijacking` conseguiremos ser ROOT. 
+Enumerando el servicio `SNMP` encontraremos credenciales que nos permitirá entrar en la máquina usando `SSH`. Para el movimiento lateral explotaremos `Pandora FMS` que corre por un puerto interno. Con `SQLi` robaremos las cookies del usuario `admin` para autenticarnos y subiendo un archivo malicioso conseguiremos ejecución remota de comandos `RCE`. Para la escalada de privilegios utilizaremos un binario con `SUID` y con un `Path Hijacking` conseguiremos ser ROOT. 
 
 ## Enumeración
 Usando `nmap` haciendo un escaneo `TCP SYN port scan` encontraremos SSH y un Apache.
