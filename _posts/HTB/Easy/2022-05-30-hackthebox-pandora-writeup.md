@@ -15,6 +15,7 @@ image:
   width: 150
   height: 150
 ---
+![pandora_img](../../../assets/img/htb/easy/pandora/pandora_img.png)
 
 ## Sinopsis
 Pandora es una máquina fácil de HackTheBox creado por [TheCyberGeek](https://app.hackthebox.com/users/114053) y [dmw0ng](https://app.hackthebox.com/users/610173). 
