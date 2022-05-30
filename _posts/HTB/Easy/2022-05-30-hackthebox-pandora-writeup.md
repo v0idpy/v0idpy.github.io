@@ -158,7 +158,7 @@ daniel@pandora:/var/www$ cat /etc/apache2/sites-available/pandora.conf
 daniel@pandora:/var/www$
 ```
 
-## Port Forwarding
+### Port Forwarding
 utilizaremos `SSH` para hacer el port forwarding, llevaremos el puerto 80 de la máquina hasta nuestro localhost.
 ```
 ❯ sudo ssh -fN -L 80:127.0.0.1:80 daniel@10.10.11.136
@@ -176,7 +176,7 @@ PORT      STATE SERVICE
 Nmap done: 1 IP address (1 host up) scanned in 0.11 seconds
 ```
 
-## Explotación
+### Explotación
 
 Ahora que tenemos acceso a la página web es hora de buscar maneras de explotarla.
 ![Pandora FMS](../../../assets/img/htb/easy/pandora/pandora_fms.png)
