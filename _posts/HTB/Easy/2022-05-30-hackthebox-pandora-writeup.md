@@ -11,11 +11,11 @@ pin: false
 math: true
 mermaid: true
 image:
-  src: "../../../assets/img/htb/easy/pandora/pandora.png"
-  width: 150
-  height: 150
+  src: "../../../assets/img/htb/easy/pandora/pandora_img.png"
+  width: 1000   # in pixels
+  height: 400   # in pixels
+  alt: Pandora
 ---
-![pandora_img](../../../assets/img/htb/easy/pandora/pandora_img.png)
 
 ## Sinopsis
 Pandora es una máquina fácil de HackTheBox creado por [TheCyberGeek](https://app.hackthebox.com/users/114053) y [dmw0ng](https://app.hackthebox.com/users/610173). 
